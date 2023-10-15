@@ -629,7 +629,7 @@
             <!-- Row 1 -->
             <tr>
                 <th>Generated Sounds</th>
-                <td><b>Walking by the river</b></td>
+                <td><b>Opening a chest</b></td>
             </tr>
             <!-- Row 2 -->
             <tr>
@@ -645,7 +645,6 @@
                     </audio>
                 </td>
             </tr>
-            <!-- Repite este bloque para los demás audios en la carpeta generated_audios_000750 -->
             <!-- Row 3 -->
             <tr>
                 <th>Generated Audio 2</th>
