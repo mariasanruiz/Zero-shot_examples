@@ -28,11 +28,6 @@
                         <source src="generated_audios_000750/ref_000750_prompts_0.wav">
                     </audio>
                 </td>
-                <td>
-                    <audio controls="">
-                        <source src="generated_audios_000750/ref_000750_prompts_0.wav">
-                    </audio>
-                </td>
             </tr>
             <!-- Row 3 -->
             <tr>
